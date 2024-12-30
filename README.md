@@ -8,3 +8,8 @@ Game Logic:
 3. Return how long it took them and how many mistakes they had
 
 **Tip:** Use `time.time()` to get the time in seconds since the [epoch](https://docs.python.org/3/library/time.html#epoch) as a floating-point number. This way you can easily subtract a time from another time!
+
+
+### Rubric
+3 pts - Submitted Python file to repository
+1.5 pts - Did not submit file
