@@ -11,5 +11,5 @@ Game Logic:
 
 
 ### Rubric
-3 pts - Submitted Python file to repository
-1.5 pts - Did not submit file
+- 3 pts - Submitted Python file to repository
+- 1.5 pts - Did not submit file
